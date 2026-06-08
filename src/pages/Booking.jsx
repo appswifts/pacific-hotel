@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useQuery, useMutation } from "convex/react";
 import { api } from "../../convex/_generated/api";
-import { Button } from "../components/ui/Button";
+import { Button } from "../components/ui/button";
 import { SectionHeader } from "../sections/SectionHeader";
 import { PageHero } from "../sections/PageHero";
 import { FlowerPattern } from "../components/Patterns";

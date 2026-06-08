@@ -1,4 +1,4 @@
-import { Button } from "../components/ui/Button";
+import { Button } from "../components/ui/button";
 import { PageHero } from "../sections/PageHero";
 import { FlowerPattern } from "../components/Patterns";
 import { Link } from "react-router-dom";

@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { PageHero } from "../sections/PageHero";
 import { FlowerPattern } from "../components/Patterns";
-import { Button } from "../components/ui/Button";
+import { Button } from "../components/ui/button";
 import { ChevronLeft, ChevronRight, Check } from "lucide-react";
 
 const steps = [

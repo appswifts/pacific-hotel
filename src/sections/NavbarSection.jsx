@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 import { Link, useLocation } from "react-router-dom";
-import { Button } from "../components/ui/Button";
+import { Button } from "../components/ui/button";
 import { ChevronDown } from "lucide-react";
 import { FlowerPattern } from "../components/Patterns";
 

@@ -2,7 +2,7 @@ import { useState } from "react";
 import { PageHero } from "../sections/PageHero";
 import { MapSection } from "../sections/MapSection";
 import { FlowerPattern } from "../components/Patterns";
-import { Button } from "../components/ui/Button";
+import { Button } from "../components/ui/button";
 import { MapPin, Phone, Mail, Clock } from "lucide-react";
 
 export default function Contact() {

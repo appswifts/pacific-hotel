@@ -1,6 +1,6 @@
 import { PageHero } from "../sections/PageHero";
 import { FlowerPattern } from "../components/Patterns";
-import { Button } from "../components/ui/Button";
+import { Button } from "../components/ui/button";
 import { Link } from "react-router-dom";
 
 const treatments = [
